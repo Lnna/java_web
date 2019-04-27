@@ -1,0 +1,6 @@
+# MAVEN #
+target/
+
+# idea #
+.idea/
+*.iml
